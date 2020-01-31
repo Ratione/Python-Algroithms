@@ -1,6 +1,6 @@
 # Pythonic Data Structures and Algorithms
 
-Minimal and clean examples of data structures and algorithms.
+Minimal and clean examples of data structures and algorithms. Some of these may be out of date, but they are all examples of a simple implementation, mostly for demonstration purposes. 
 
 List of Implementations:
 
